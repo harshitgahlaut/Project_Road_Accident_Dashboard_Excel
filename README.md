@@ -38,14 +38,15 @@ Created a "Data Analysis" sheet to summarize all the pivot table Data for a new 
 
 Below is a snippet of the Data Analysis Sheet
 
-![](https://github.com/harshitgahlaut/Project_Road_Accident_Dashboard_Excel/blob/main/Data%20Analysis.JPG)
+![Data Analysis](https://github.com/harshitgahlaut/Project_Road_Accident_Dashboard_Excel/assets/142779836/020fbfb3-11c1-4ddb-a115-52f1696711f4)
 
 ## Data Visualization
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience slicers and timelines were incorporated. Hyperlinks and connections were also added to necessary icons for seamless navigation.
 
 Below is a snippet of the final dashboard in Excel.
 
-![](https://github.com/harshitgahlaut/Project_Road_Accident_Dashboard_Excel/blob/main/Road%20Accident%20Dashboard.JPG)
+![Road Accident Dashboard](https://github.com/harshitgahlaut/Project_Road_Accident_Dashboard_Excel/assets/142779836/b04f4866-0a04-4c2f-a984-c64561fa0591)
+
 
 ## Key Insights
 
